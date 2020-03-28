@@ -1,0 +1,13 @@
+C:\Users\Piotrek\source\repos\Saper\Saper\bin\Debug\netcoreapp3.1\Saper.exe
+C:\Users\Piotrek\source\repos\Saper\Saper\bin\Debug\netcoreapp3.1\Saper.deps.json
+C:\Users\Piotrek\source\repos\Saper\Saper\bin\Debug\netcoreapp3.1\Saper.runtimeconfig.json
+C:\Users\Piotrek\source\repos\Saper\Saper\bin\Debug\netcoreapp3.1\Saper.runtimeconfig.dev.json
+C:\Users\Piotrek\source\repos\Saper\Saper\bin\Debug\netcoreapp3.1\Saper.dll
+C:\Users\Piotrek\source\repos\Saper\Saper\bin\Debug\netcoreapp3.1\Saper.pdb
+C:\Users\Piotrek\source\repos\Saper\Saper\obj\Debug\netcoreapp3.1\Saper.csprojAssemblyReference.cache
+C:\Users\Piotrek\source\repos\Saper\Saper\obj\Debug\netcoreapp3.1\Saper.csproj.CoreCompileInputs.cache
+C:\Users\Piotrek\source\repos\Saper\Saper\obj\Debug\netcoreapp3.1\Saper.AssemblyInfoInputs.cache
+C:\Users\Piotrek\source\repos\Saper\Saper\obj\Debug\netcoreapp3.1\Saper.AssemblyInfo.cs
+C:\Users\Piotrek\source\repos\Saper\Saper\obj\Debug\netcoreapp3.1\Saper.dll
+C:\Users\Piotrek\source\repos\Saper\Saper\obj\Debug\netcoreapp3.1\Saper.pdb
+C:\Users\Piotrek\source\repos\Saper\Saper\obj\Debug\netcoreapp3.1\Saper.genruntimeconfig.cache
